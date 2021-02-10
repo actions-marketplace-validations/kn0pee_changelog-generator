@@ -1,6 +1,6 @@
 name: 'Get a changelog between two references and group by type and scope'
 author: 'Bradley Rawlings'
-description: 'Returns the commit difference count between two git references. Formats the output through grouping based on type and scope. Supports basic flags'
+description: 'Formatted changelog between 2 references using conventional commits format'
 inputs:
   mytoken:
     description: 'Your GITHUB_TOKEN'
